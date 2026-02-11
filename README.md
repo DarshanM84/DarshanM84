@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Final year B.E student in CSE-AI&ML branch.<br>I'm currently doing internship in UNLOX on Data Science domain & Kodnest on Python Full Stack.<br>I'm  Learning skills that are required for Data Analytics.<br>Im looking for help to start my career in Data Analytics.<br>
+I'm Final year B.E student in CSE-AI&ML branch.<br>I'm currently doing internship in @UNLOX on Data Science domain & @Kodnest on Python Full Stack.<br>I'm  Learning skills that are required for Data Analytics.<br>Im looking for help to start my career in Data Analytics.<br>
 
 
 ## 🌐 Socials:
